@@ -5,7 +5,7 @@ metadata:
         app: chief-framework-microservice
         stack: frontend
         source: demo
-        junklabel: label-2
+        junklabel: label-3
     name: chief-framework-microservice
     namespace: microservices
 spec:
